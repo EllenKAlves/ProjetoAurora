@@ -15,9 +15,9 @@ a viabilidade de lançamentos com base em parâmetros técnicos reais.
   - Terran T (Relativity Space): Avaliação de tecnologias de impressão 3D em estágio de desenvolvimento.
 
   # 🛠️ Tecnologias Utilizadas
-  - Python3.14.3
-  - Jupyter Notebook
-  - VS Code
+  - Python 3.14.3
+  - Jupyter Notebook (.ipynb)
+  - VS Code IDE
 
   # 🚀 Como Executar
   1. Certifique-se de ter Python e a extensão Jupyter Notebook instalado no VsCode;
