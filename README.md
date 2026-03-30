@@ -27,7 +27,7 @@ a viabilidade de lançamentos com base em parâmetros técnicos reais.
 
   # 🌎 Reflexão Ética e Sustentabilidade
    O projeto integra uma análise sobre o impacto social e ambiental da exploração espacial, destacando: 
-     - A transição para combustíveis menos poluentes como o Metanol (LNG);
-     - A importância da reutilização de componentes para a economia circular; 
-     - A responsabilidade ética na validação de sistemas atuomatizados para evitar falhas catastróficas.
+  - A transição para combustíveis menos poluentes como o Metanol (LNG);
+  - A importância da reutilização de componentes para a economia circular; 
+  - A responsabilidade ética na validação de sistemas atuomatizados para evitar falhas catastróficas.
   
