@@ -30,4 +30,8 @@ a viabilidade de lançamentos com base em parâmetros técnicos reais.
   - A transição para combustíveis menos poluentes como o Metanol (LNG);
   - A importância da reutilização de componentes para a economia circular; 
   - A responsabilidade ética na validação de sistemas atuomatizados para evitar falhas catastróficas.
+
+  # Prints de execução:
+  <img width="497" height="565" alt="image" src="https://github.com/user-attachments/assets/3de134c3-7e7f-474d-99d3-c09a90e19207" />
+  <img width="376" height="470" alt="image" src="https://github.com/user-attachments/assets/f7176f45-38b0-47e3-9a50-81029bfe0d37" />
   
