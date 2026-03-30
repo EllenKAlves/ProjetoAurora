@@ -14,16 +14,14 @@ a viabilidade de lançamentos com base em parâmetros técnicos reais.
   - Electron (Rocket Lab): Monitoramento de bombas elétricas e baterias de alta perfomance;
   - Terran T (Relativity Space): Avaliação de tecnologias de impressão 3D em estágio de desenvolvimento.
 
-  # 🛠️ Tecnologias Utilizadas
-  - Python 3.14.3
-  - Jupyter Notebook (.ipynb)
-  - VS Code IDE
+  # 🛠️ Funcionalidades Técnicas
+  - Data Cleanning (regex) para extração de números de campos como "-206°C (LOX)";
+  - Sistema de alertas: Lógica booleana para identificar falhas térmicas e de carga energéticas.
 
   # 🚀 Como Executar
-  1. Certifique-se de ter Python e a extensão Jupyter Notebook instalado no VsCode;
-  2. Abra o arquivo script_python.ipynb;
-  3. Selecione Kernel Pythpn no canto superior direito (preferencialmente .venv);
-  4. Execute as células em ordem (Shift + Enter) para visualizar o relatório de triagem.
+  1. Acesse o Notebook (arquivo script_python.ipynb);
+  2. Certifique-se de ter as bibliotecas 'pandas' e 're' instaladas;
+  3. Certifique-se de executar as células em ordem.
 
   # 🌎 Reflexão Ética e Sustentabilidade
    O projeto integra uma análise sobre o impacto social e ambiental da exploração espacial, destacando: 
@@ -32,6 +30,7 @@ a viabilidade de lançamentos com base em parâmetros técnicos reais.
   - A responsabilidade ética na validação de sistemas atuomatizados para evitar falhas catastróficas.
 
   # Prints de execução:
-  <img width="497" height="565" alt="image" src="https://github.com/user-attachments/assets/3de134c3-7e7f-474d-99d3-c09a90e19207" />
-  <img width="376" height="470" alt="image" src="https://github.com/user-attachments/assets/f7176f45-38b0-47e3-9a50-81029bfe0d37" />
+  <img width="385" height="277" alt="image" src="https://github.com/user-attachments/assets/78cc45cd-12f5-4a50-a326-5df5c4705595" />
+<img width="441" height="322" alt="image" src="https://github.com/user-attachments/assets/87321948-5e78-44c0-878c-fa09dc64af4a" />
   
+
